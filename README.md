@@ -1,1 +1,20 @@
-# Business-Intelligence-com-Google-Cloud-Products
+[![author](https://img.shields.io/badge/author-juliocezar-red.svg)](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jcppaula/data_science/issues)
+
+<p align="center">
+  <img src="BI.png" >
+</p>
+
+# Business Intelligence com Google Cloud Products
+<sub>*Data Scientist*</sub>
+
+Lidar com dados não estruturados pode ser um grande problema, nesse artigo eu apresento duas APIs do Google Cloud Products que podem facilitar a nossa vida na hora de uma análise.
+
+No artigo eu disponibilizo o notebook com o código completo de uma análise de dados feita usando as ferramentas.
+
+* [Clique aqui para acessar o projeto](https://github.com/jcppaula/Portfolio)
+
+
+**Sobre mim:**
+* [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9zar-de-paula-0b64b8226/)
+* [Medium](https://medium.com/@jcp.paula17)
+* [Portfólio](https://github.com/jcppaula/Portfolio)
