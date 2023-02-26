@@ -11,7 +11,7 @@ Lidar com dados não estruturados pode ser um grande problema, nesse artigo eu a
 
 No artigo eu disponibilizo o notebook com o código completo de uma análise de dados feita usando as ferramentas.
 
-* [Clique aqui para acessar o projeto](https://github.com/jcppaula/Portfolio)
+* [Clique aqui para acessar o projeto](https://github.com/jcppaula/Business-Intelligence-com-Google-Cloud-Products/blob/main/Business_Intelligence_com_Google_Cloud_Products_21_02_23.ipynb)
 
 
 **Sobre mim:**
