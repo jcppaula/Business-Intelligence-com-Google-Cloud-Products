@@ -7,9 +7,9 @@
 # Business Intelligence com Google Cloud Products
 <sub>*Data Scientist*</sub>
 
-Lidar com dados não estruturados pode ser um grande problema, nesse artigo eu apresento duas APIs do Google Cloud Products que podem facilitar a nossa vida na hora de uma análise.
+Lidar com dados não estruturados pode ser um grande problema, nesse projeto eu apresento duas APIs do Google Cloud Products que podem facilitar a nossa vida na hora de uma análise.
 
-No artigo eu disponibilizo o notebook com o código completo de uma análise de dados feita usando as ferramentas.
+Abaixo está o notebook com o código completo de uma análise de dados feita usando as ferramentas.
 
 * [Clique aqui para acessar o projeto](https://github.com/jcppaula/Business-Intelligence-com-Google-Cloud-Products/blob/main/Business_Intelligence_com_Google_Cloud_Products_21_02_23.ipynb)
 
